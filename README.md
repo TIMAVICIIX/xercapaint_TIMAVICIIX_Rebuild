@@ -1,4 +1,4 @@
-# 🎨 Joy of Painting - TIMAVICIIX REBUILD
+# 🎨 Joy of Painting - TIMAVICIIX REBUILD[Version Only:1.20.1]
 
 > *一个 Minecraft mod 改良自 [XercaPaintMod](https://github.com/ercanserteli/xercamods)，也叫 Joy of Painting。*
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Description | 简介
+## 📖 Description | 简介 [Version Only:1.20.1]
 
 **Joy of Painting - Enhanced** is an enhanced version of the original **XercaPaintMod**, also known as *Joy of Painting*.
 This mod introduces:
