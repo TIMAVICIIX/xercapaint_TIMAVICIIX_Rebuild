@@ -1,4 +1,4 @@
-# 🎨 Joy of Painting - TIMAVICIIX REBUILD[Version Only:1.20.1]
+## 🎨 Joy of Painting - TIMAVICIIX REBUILD[Version Only:1.20.1]
 
 > *一个 Minecraft mod 改良自 [XercaPaintMod](https://github.com/ercanserteli/xercamods)，也叫 Joy of Painting。*
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Description | 简介 [Version Only:1.20.1]
+### 📖 Description | 简介 [Version Only:1.20.1]
 
 **Joy of Painting - Enhanced** is an enhanced version of the original **XercaPaintMod**, also known as *Joy of Painting*.
 This mod introduces:
@@ -26,14 +26,14 @@ This mod introduces:
 
 ---
 
-## 🔗 Source Code | 源码地址
+### 🔗 Source Code | 源码地址
 
 * 📂 Original Project: [XercaPaintMod](https://github.com/ercanserteli/xercamods)
 * 📂 Enhanced Project: [Joy of Painting - Enhanced](https://github.com/your-repo-link)
 
 ---
 
-## 📜 License | 协议说明
+### 📜 License | 协议说明
 
 This project follows the **GNU General Public License v3.0 (GPLv3)**, fully in accordance with the open-source license of the original XercaPaintMod.
 👉 [GPLv3 License (English)](https://www.gnu.org/licenses/gpl-3.0.html)
@@ -43,7 +43,7 @@ This project follows the **GNU General Public License v3.0 (GPLv3)**, fully in a
 
 ---
 
-### ✅ You can | 你可以：
+#### ✅ You can | 你可以：
 
 * Use this mod
 
@@ -59,7 +59,7 @@ This project follows the **GNU General Public License v3.0 (GPLv3)**, fully in a
 
 ---
 
-### ❗ You must | 你必须：
+#### ❗ You must | 你必须：
 
 * Retain the license notice
 
@@ -70,7 +70,7 @@ This project follows the **GNU General Public License v3.0 (GPLv3)**, fully in a
 * 以 GPLv3 开源发布你的改动
 ---
 
-## 🙏 Credits | 致谢
+### 🙏 Credits | 致谢
 
 * 原版模组: [XercaPaintMod by ercanserteli](https://github.com/ercanserteli/xercamods)
 * 本模组：在原作基础上的改良与扩展版本。
