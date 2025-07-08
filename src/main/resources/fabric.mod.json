@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "xercapaint",
+  "version": "${version}",
+  "name": "Joy of Painting[TIMAVICIIX_REBUILD_1.0.0]",
+  "description": "基于 XercaPaintMod 的 Minecraft 绘画模组，带来更流畅、更丰富的绘画体验。",
+  "authors": ["xerca","TIMAVICIIX"],
+  "contact": {
+    "homepage": "https://github.com/TIMAVICIIX/XercaPaintMod_T_REBUILD",
+    "sources": "https://github.com/TIMAVICIIX/XercaPaintMod_T_REBUILD"
+  },
+  "license": "GPL-3.0",
+  "icon": "logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "xerca.xercapaint.client.ModClient"
+    ],
+    "main": [
+      "xerca.xercapaint.Mod"
+    ]
+  },
+  "mixins": [
+    "xercapaint.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric-api": "*",
+    "minecraft": "1.20.1"
+  }
+}

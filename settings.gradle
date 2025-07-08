@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        maven {
+            name = 'Fabric'
+            url = 'https://maven.fabricmc.net/'
+        }
+        maven {
+            name = "owo"
+            url = "https://maven.wispforest.io"
+        }
+        maven {
+            name = "lss233 Fabric Mirror"
+            url = "https://lss233.littleservice.cn/"
+        }
+        maven {
+            name = 'Fabric Han Bing s'
+            url = 'https://repository.hanbings.io/proxy'
+        }
+        mavenCentral()
+        gradlePluginPortal()
+    }
+    plugins {
+        id 'org.jetbrains.kotlin.jvm' version '1.9.22'
+    }
+}
